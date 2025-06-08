@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# alx_html_css
-=======
+
 # CSS Advanced Webpage
 
 This project is a clone of a Figma-designed webpage using semantic HTML and styled with CSS.
@@ -16,4 +14,3 @@ This project is a clone of a Figma-designed webpage using semantic HTML and styl
 
 ## Author
 Kenele Okorodudu
->>>>>>> Initial commit
