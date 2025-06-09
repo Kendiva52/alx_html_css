@@ -1,0 +1,45 @@
+body {
+  display: flex;
+  flex-direction: column;
+  height: 100vh; 
+  margin: 0;
+}
+
+
+main {
+  display: flex;
+  flex-direction: row;
+  flex: auto; 
+}
+
+article {
+  flex: 2;
+  overflow-y: auto;
+  background-color: white;
+  border-radius: 10px;
+  padding: 20px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+ 
+}
+
+aside {
+  flex: 1;
+  overflow-y: auto;
+ 
+}
+
+
+header,
+<ul>
+  <li class="logo">&#9731;</li>
+  <li>Home</li>
+  <li>Contact</li>
+</ul>
+
+footer {
+  background-color: #eee;
+  padding: 1rem;
+  
+}
